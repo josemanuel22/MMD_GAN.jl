@@ -2,6 +2,7 @@ using MMD_GAN
 using Flux
 using Test
 using HypothesisTests
+using Distributions
 
 tol = 1e-5
 
