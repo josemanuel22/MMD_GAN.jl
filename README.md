@@ -3,7 +3,7 @@
 [![Build Status](https://github.com/josemanuel22/MMD_GAN.jl/actions/workflows/CI.yml/badge.svg?branch=main)](https://github.com/josemanuel22/MMD_GAN.jl/actions/workflows/CI.yml?query=branch%3Amain)
 
 ## Overview
-`MMD_GAN.jl`` is a Julia module implementing a Maximum Mean Discrepancy (MMD) Generative Adversarial Network. This module provides functionalities to train GAN models using MMD for measuring the discrepancy between the generated and real data distributions. It is designed for easy experimentation with different hyperparameters and model architectures.
+`MMD_GAN.jl` is a Julia module implementing a Maximum Mean Discrepancy (MMD) Generative Adversarial Network. This module provides functionalities to train GAN models using MMD for measuring the discrepancy between the generated and real data distributions. It is designed for easy experimentation with different hyperparameters and model architectures.
 
 ## Installation
 To use MMD_GAN.jl, clone this repository into your local machine. Make sure you have Julia installed and set up on your system.
