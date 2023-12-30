@@ -1,4 +1,5 @@
 using MMD_GAN
+using Flux
 using Test
 using HypothesisTests
 
@@ -31,8 +32,8 @@ end
         data_size=100,
         batch_size=1,
         num_gen=1,
-        num_enc_dec=2,
-        epochs=100000,
+        num_enc_dec=3,
+        epochs=1000000,
         lr_dec=1.0e-5,
         lr_enc=1.0e-5,
         lr_gen=1.0e-5,
